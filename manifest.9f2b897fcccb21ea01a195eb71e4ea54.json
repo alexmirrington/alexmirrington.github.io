@@ -1,0 +1,39 @@
+{
+  "icons": [
+    {
+      "src": "./icons/ios/icon_180x180.d441a3f33009296643f65b286fcc7f23.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_512x512.cfe148f835b831b55e7767c097f66969.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./icon_192x192.1ee1c604195eccaa1e6e72416d0903c1.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./icons/icon_512x512.cfe148f835b831b55e7767c097f66969.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/icon_192x192.1ee1c604195eccaa1e6e72416d0903c1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Alex Mirrington - Data Scientist",
+  "short_name": "Alex Mirrington",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Computer science graduate with a passion for developing machine learning systems that solve real-world problems.",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
