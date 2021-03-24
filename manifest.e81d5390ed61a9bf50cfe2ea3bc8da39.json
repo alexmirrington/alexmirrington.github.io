@@ -6,13 +6,13 @@
       "type": "image/png"
     },
     {
-      "src": "./icon_512x512.cfe148f835b831b55e7767c097f66969.png",
+      "src": "./icons/icon_512x512.cfe148f835b831b55e7767c097f66969.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "./icon_192x192.1ee1c604195eccaa1e6e72416d0903c1.png",
+      "src": "./icons/icon_192x192.1ee1c604195eccaa1e6e72416d0903c1.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
